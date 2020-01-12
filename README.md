@@ -22,10 +22,12 @@ Clicking the button “Ranking” in the left enter into the following user inte
 
 For example, in the C.elegans multilayer connectome network, we choose authority and EDCPTD centralities to identify essential nodes, the ranking results of two centrality methods are shown in the following interface.
 
-![image] (https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig4.jpg)
+![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig4.jpg)
 
 ## 4. The visual representation of correlation analysis between different centrality methods
 
 Clicking the button “Correlation” in the left enter into the user interface of correlation analysis. In this interface, you need to choose two different centrality methods. The ENMNFinder can calculate the Spearman correlation between two different centrality methods. For example, in the C.elegans multilayer connectome network, we choose PageRank and degree centralities to identify essential nodes. The value of Spearman correlation between PageRank and degree centralities and corresponding visual figure are shown in the following interfaces.
 
-![image] (https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig5.jpg)
+![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig5.jpg)
+
+![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig6.jpg)
