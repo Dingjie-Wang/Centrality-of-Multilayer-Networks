@@ -20,7 +20,7 @@ Clicking the button “Ranking” in the left enter into the following user inte
 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig3.jpg)
 
-For example, in the C.elegans multilayer connectome network, we choose authority and EDCPTD centralities to identify essential nodes, the ranking results of two centrality methods are shown in the following interface.
+For example, in the C.elegans multilayer connectome network (https://comunelab.fbk.eu/data.php), we choose authority and EDCPTD centralities to identify essential nodes, the ranking results of two centrality methods are shown in the following interface.
 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig4.jpg)
 
