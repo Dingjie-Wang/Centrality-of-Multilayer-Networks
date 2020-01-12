@@ -31,3 +31,10 @@ Clicking the button “Correlation” in the left enter into the user interface 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig5.jpg)
 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig6.jpg)
+
+## 5. Reference
+
+If you use this software, please cite the following paper
+
+[1] Wang, Dingjie, Haitao Wang, and Xiufen Zou. "Identifying key nodes in multilayer networks based on tensor decomposition." Chaos: An Interdisciplinary Journal of Nonlinear Science 27.6 (2017): 063108.
+
