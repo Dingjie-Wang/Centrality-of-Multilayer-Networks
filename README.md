@@ -1,6 +1,6 @@
 # The operating instruction of ENMNFinder software
 
-To make other researchers more convenient for identifying essential nodes in multilayer networks, we present a visual software based on GUI of MATLAB, called ENMNFinder (Essential Nodes of Multilayer Networks Finder). The ENMNFinder provides an easy and accessible user interface for the calculation of centralities, and the visual representation of the results of calculations in multilayer networks. In the following, we give technical details about the ENMNFinder software. Here we use the C.elegans multilayer connectome network [1-2] as a test example, and it’s data is available at http://deim.urv.cat/~manlio.dedomenico/data.php.
+To make other researchers more convenient for identifying essential nodes in multilayer networks, we present a visual software based on GUI of MATLAB, called ENMNFinder (Essential Nodes of Multilayer Networks Finder). The ENMNFinder provides an easy and accessible user interface for the calculation of centralities, and the visual representation of the results of calculations in multilayer networks. In the following, we give technical details about the ENMNFinder software. Here we use the C.elegans multilayer connectome network as a test example, and it’s data is available at https://comunelab.fbk.eu/data.php.
 
 ## 1. The installation of the ENMNFinder software
 
@@ -20,7 +20,7 @@ Clicking the button “Ranking” in the left enter into the following user inte
 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig3.jpg)
 
-For example, in the C.elegans multilayer connectome network (https://comunelab.fbk.eu/data.php), we choose authority and EDCPTD centralities to identify essential nodes, the ranking results of two centrality methods are shown in the following interface.
+For example, in the C.elegans multilayer connectome network, we choose authority and EDCPTD centralities to identify essential nodes, the ranking results of two centrality methods are shown in the following interface.
 
 ![image](https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks/blob/master/fig4.jpg)
 
